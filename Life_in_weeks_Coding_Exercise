@@ -1,0 +1,13 @@
+function lifeInWeeks(age) {
+    
+/************Don't change the code above************/    
+    
+    //Write your code here.
+    let ag=90-age;
+    
+    console.log("You have "+ag*365+" days, "+ag*52+" weeks, and "+ag*12+" months left.")
+    
+    
+/*************Don't change the code below**********/
+}
+
